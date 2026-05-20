@@ -1,0 +1,10 @@
+# Sitemap de CISGEIN
+Sitemap: https://cisgein.com/sitemap.xml
+
+# Reglas de indexación globales
+User-agent: *
+Allow: /
+
+# Evitar duplicaciones de parámetros de búsqueda
+Disallow: /*?*
+Disallow: /*&*

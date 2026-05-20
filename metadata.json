@@ -1,0 +1,6 @@
+{
+  "name": "CISGEIN - Servicios Web Empresariales 3D",
+  "description": "Optimiza tu presencia digital con páginas web interactivas 3D desarrolladas por CISGEIN. Alta velocidad de carga, diseño responsivo, SEO optimizado y conversión para tu empresa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
