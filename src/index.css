@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Orbitron", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-void: #000000;
+  --color-abyss: #0a0a0f;
+  --color-deep: #12121c;
+  --color-surface: #1a1a28;
+  --color-card: #22223a;
+  --color-border: #2d2d48;
+  --color-neon-cyan: #00fff5;
+  --color-neon-magenta: #ff00ff;
+  --color-neon-blue: #0080ff;
+  --color-electric: #00d4ff;
+  --color-gold: #ffd700;
+  --color-muted-text: #cacfd9; /* Mayor contraste para A11y */
+  --color-brand-gray: #9da5b4;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
